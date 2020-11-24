@@ -2,7 +2,7 @@
 </h1>
 
 <img width="420" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-<img width="420" height="200" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.54fcnr.com%2Fgif%2F567831.html&psig=AOvVaw2BofuG6OxZBYe0oQVQJWbd&ust=1606300545380000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCar_39mu0CFQAAAAAdAAAAABAM">
+<img width="420" height="200" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.54fcnr.com%2Fgif%2F567831.html&psig=AOvVaw2BofuG6OxZBYe0oQVQJWbd&ust=1606300545380000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCar_39mu0CFQAAAAAdAAAAABAMhttps://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🔭 I’m currently a Graduate Student 🎓[@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) pursuing CS.
 - 💻 I'm a **Tech Enthusiast 😃** passionate about learning and working with new tech.
