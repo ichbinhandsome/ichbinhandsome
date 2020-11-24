@@ -1,5 +1,7 @@
-### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
+- 🔭 I’m currently a Graduate Student 🎓[@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) pursuing CS.
+- 🌱 I’m currently working on NLP & Machine Learning
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=center>
 <!--
 **ichbinhandsome/ichbinhandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
