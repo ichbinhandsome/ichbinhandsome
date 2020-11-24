@@ -7,6 +7,7 @@
 - 💻 I'm a **Tech Enthusiast 😃** passionate about learning and working with new tech.
 - 🌱 I’m currently working on NLP & Machine Learning. 
 - 📝 I write technical [blogs](https://ichbinhandsome.github.io/)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
 <!--
 **ichbinhandsome/ichbinhandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
