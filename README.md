@@ -1,8 +1,8 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi! I am Ruixiang <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">
 </h1>
 
-<img width="420" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-<img width="420" height="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img width="420" height="200" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" align=right>
+
 
 - 🔭 I’m currently a Graduate Student 🎓[@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) pursuing CS.
 - 💻 I'm a **Tech Enthusiast 😃** passionate about learning and working with new tech.
