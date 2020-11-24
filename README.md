@@ -1,7 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi! I am Ruixiang <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">
 </h1>
 
-<img width="400" height="190" src="https://media.giphy.com/media/idqD4e6kwMJzul2Ftq/giphy.gif" align=right>
+<img width="400" height="190" src="https://media.giphy.com/media/3o752oeUYz6S2SHi5W/giphy.gif" align=right>
 
 
 - 🔭 I’m currently a Graduate Student 🎓[@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) pursuing CS.
@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on NLP & Machine Learning. 
 - 📝 I write technical [blogs](https://ichbinhandsome.github.io/).
 
- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
+  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
 <!--
 **ichbinhandsome/ichbinhandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
