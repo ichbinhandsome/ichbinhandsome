@@ -4,9 +4,8 @@
 <img width="410" height="205" src="https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif" align=right>
 
 
-- 🔭 I’m currently a Graduate Student 🎓[@RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) pursuing CS.
 - 💻 I'm a **Tech Enthusiast 😃** passionate about learning and working with new tech.
-- 🌱 I’m currently working on NLP & Machine Learning. 
+- 🌱 I’m currently working on NLP & Machine Learning & search query understanding. 
 - 📝 I write technical [blogs](https://ichbinhandsome.github.io/).
 
   ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ichbinhandsome.ichbinhandsome)
