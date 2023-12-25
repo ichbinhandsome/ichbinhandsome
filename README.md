@@ -10,7 +10,7 @@
 - 😄 I love both research and engineering.
 - 📝 I write technical [blogs](https://ichbinhandsome.github.io/).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=40CBFB&random=false&width=443&lines=from+model+import+Model;Model.train();Epoch+10++%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D;Done!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=40CBFB&multiline=true&random=false&width=443&lines=from+model+import+Model;Model.train();Epoch+10++%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D;Done!)](https://git.io/typing-svg)
 
 <!--
 **ichbinhandsome/ichbinhandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
