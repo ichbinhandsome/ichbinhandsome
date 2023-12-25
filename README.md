@@ -6,7 +6,6 @@
 
 - 💻 I'm a **Tech Enthusiast 😃** passionate about learning and working with new tech.
 - 🌱 I’m currently working on NLP & Machine Learning & search query understanding.
-- 🔭 I’m exploaring LLM continue pretraining & fine-tuning, inference and applying them into search use cases.
 - 😄 I love both research and engineering.
 - 📝 I write technical [blogs](https://ichbinhandsome.github.io/).
 
